@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tonystark121
+- 👋 Hi, I’m @Rajeev Raj
 - 👀 I’m interested in ...competetive programming and software development 
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...projects which require skills in cp & web development
