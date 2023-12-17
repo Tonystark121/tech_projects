@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+- 👋 Hi, I’m @Rajeev Raj
+- 👀 I’m interested in ...competetive programming and software development 
+- 🌱 I’m currently learning ...web development
+- 💞️ I’m looking to collaborate on ...projects which require skills in cp & web development
+- 📫 How to reach me ...No. 7870843912 email:rajeevraj78708@gmail.com
+
+<!---
+Tonystark121/Tonystark121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+>>>>>>> 4cf65b839652115f28de2279eee2bf895963164f
